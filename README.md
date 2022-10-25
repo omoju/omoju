@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 ##### BIO
 
 - 🏢 I'm currently building a Stealth Web3 Data Services company
-- 🤔 I’m currently hiring for two roles, Founding Data Engineer, and Founding Software Engineer. If you know of any kick-ass candidates that are in the San-Franciso Bay Area, send them my way!😃
 - 🌱 Learning all about **Scaling human coordination**
 - 📫 Reach me: [twitter.com/omojumiller](https://twitter.com/omojumiller)
 - ⚡ Fun fact: I just got three chicks and they are growing fast!
