@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ##### BIO
 
-- 🏢 I'm currently building a Stealth Web3 Data Services company
+- 🏢 I'm currently building at [Fimio](https://fimio.xyz/)
 - 🌱 Learning all about **Scaling human coordination**
 - 📫 Reach me: [twitter.com/omojumiller](https://twitter.com/omojumiller)
 - ⚡ Fun fact: I just got three chicks and they are growing fast!
