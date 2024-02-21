@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##### NOW
-
-- ✨ Recently left GitHub(yeah you are looking at it) where I was the Technical Advisor to the CEO;
-- Heading back to my data roots
 
 ##### BIO
 
