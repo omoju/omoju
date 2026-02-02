@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 ##### BIO
 
-- 🏢 I'm currently building at [Fimio](https://fimio.xyz/)
-- 📫 Reach me: [twitter.com/omojumiller](https://twitter.com/omojumiller)
+- 🏢 I'm currently tinkering around permissionless tech and low earth orbit stuff.
+- 📫 Reach me: [x.com/omojumiller](https://x.com/omojumiller)
