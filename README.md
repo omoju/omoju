@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 ##### BIO
 
-- 🏢 I'm currently tinkering around permissionless tech and low earth orbit stuff.
+- 🏢 I'm currently thinking about the future of code comprehension and some things around reasoning under uncertainty
 - 📫 Reach me: [x.com/omojumiller](https://x.com/omojumiller)
